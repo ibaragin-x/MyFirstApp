@@ -9,6 +9,8 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
 
+    //just adding this comment to test how to use github
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
